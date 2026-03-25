@@ -52,7 +52,7 @@
 
 ## 📊 GitHub Stats
 
-![Naga's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true)
+![Naga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Surapureddynagalakshmi\&show_icons=true)
 
 ---
 
