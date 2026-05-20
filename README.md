@@ -1,30 +1,34 @@
-# Hi, I'm Naga Lakshmi 👋
+# Hi 👋, I'm Naga Lakshmi
 
-🎓 B.Tech CSE (Artificial Intelligence) Student
-💻 Aspiring Software Engineer | AI & Web Development
-🌱 Currently learning AWS, Machine Learning & building real-world projects
+🎓 **Computer Science Engineer (AI) Graduate**
+💻 **Aspiring AI / GenAI / Software Engineer**
+🚀 Passionate about building **AI, RAG, Machine Learning & Web Applications**
 
 ---
 
 ## 🚀 About Me
 
-* 💡 Passionate about solving real-world problems using technology
-* 🤖 Interested in AI, Machine Learning & Full Stack Development
-* 📈 Continuously learning and improving my skills
-* 🎯 Looking for internship opportunities
+* 🔹 Interested in **Artificial Intelligence, Generative AI, Machine Learning & Full Stack Development**
+* 🔹 Building projects using **RAG, LLMs, FastAPI & Modern AI Technologies**
+* 🔹 Exploring **Document AI, Semantic Search & Intelligent AI Applications**
+* 🔹 Continuously learning and improving technical & problem-solving skills
+* 🔹 Open to **Internship & Full-Time Opportunities**
 
 ---
 
-## 🔧 Tech Stack
+## 🛠️ Tech Stack
 
-💻 **Languages:**
+### Languages
+
 `Python` `JavaScript` `SQL`
 
-🌐 **Web Development:**
-`HTML` `CSS`
+### AI / GenAI
 
-⚙️ **Tools & Technologies:**
-`Git` `GitHub` `VS Code` `AWS (Basics)`
+`Machine Learning` `Generative AI` `RAG` `LLMs` `Semantic Search`
+
+### Frameworks & Tools
+
+`FastAPI` `Git` `GitHub` `VS Code` `AWS` `HTML` `CSS`
 
 ---
 
@@ -32,38 +36,56 @@
 
 ### 🏥 Smart Hospital Management System
 
-✔ Admin dashboard, patient & doctor management
-✔ Secure authentication & billing system
-🔧 Tech: HTML, CSS, JavaScript, SQL
+✔️ Patient, Doctor & Admin Dashboard
+✔️ Secure Authentication & Billing System
+**Tech:** HTML, CSS, JavaScript, SQL
 
-👉 [View Project](https://github.com/your-username/smart-hospital-management-system)
+🔗 [View Project](ADD_PROJECT_LINK)
 
 ---
 
-### 🌱 Crop Recommendation System (ML Project)
+### 🌱 Crop Recommendation System
 
-✔ Predicts suitable crops based on soil data
-✔ Helps in better agricultural decisions
-🔧 Tech: Python, Machine Learning
+✔️ Crop prediction using soil parameters
+✔️ ML-based agricultural recommendation system
+**Tech:** Python, Machine Learning
 
-👉 [View Project](https://github.com/your-username/crop-recommendation-system)
+🔗 [View Project](ADD_PROJECT_LINK)
+
+---
+
+### 🤖 AI Document Assistant (RAG )
+
+✔️ Upload PDFs & ask questions from documents
+✔️ Retrieval-Augmented Generation (RAG) pipeline
+✔️ Semantic Search, Embeddings & Text Chunking
+✔️ LLM-powered intelligent document Q&A system
+
+**Tech:** Python, FastAPI, Vector Database, RAG, GenAI, LLMs
+
+🔗 [View Project](ADD_PROJECT_LINK)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Naga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Surapureddynagalakshmi\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surapureddynagalakshmi\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surapureddynagalakshmi\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
-📧 [nagalakshmisurapureddy@gmail.com](mailto:nagalakshmisurapureddy@gmail.com)
-🔗 https://linkedin.com/in/naga-lakshmi-surapureddy-861456302
+📧 **[nagalakshmisurapureddy@gmail.com](mailto:nagalakshmisurapureddy@gmail.com)**
+
+🔗 **LinkedIn:**
+https://linkedin.com/in/naga-lakshmi-surapureddy-861456302
 
 ---
 
-⭐ *"Building skills today for better opportunities tomorrow."*
+⭐ *Building intelligent solutions with AI & continuous learning.*
+
 
 
 <!--
