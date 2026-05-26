@@ -2,9 +2,9 @@
 
 <h1>Naga Lakshmi Surapureddy</h1>
 
-<p><strong>AI Engineer &nbsp;·&nbsp; GenAI Developer &nbsp;·&nbsp; Full Stack Builder</strong></p>
+<p><strong>Aspiring AI / GenAI Engineer &nbsp;·&nbsp; Full Stack Developer</strong></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=550&lines=Building+Production-Grade+RAG+Systems;LLM+%7C+LangChain+%7C+Vector+Search+%7C+FastAPI;Turning+AI+Research+into+Real+Applications;Open+to+Internship+%26+Full-Time+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=550&lines=Building+RAG+%26+LLM+Applications;Exploring+Semantic+Search+%26+Vector+Databases;Learning+LangGraph+%26+Agentic+AI;Open+to+Internship+%26+Full-Time+Opportunities)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,24 +24,24 @@
 
 ## 👩‍💻 About Me
 
-> CSE (AI) Graduate passionate about building **intelligent, production-ready AI systems** — from RAG pipelines and LLM integrations to full stack applications.
+> CSE (AI) Graduate passionate about building intelligent AI applications — from RAG pipelines and LLM integrations to full stack systems.
 
-- 🔭 Currently building **RAG pipelines**, **Agentic AI workflows** & **LLM-powered applications**
-- 🧠 Deep interest in **Semantic Search**, **Vector Databases**, **Document Intelligence** & **GenAI**
-- 🌱 Actively exploring **LangGraph**, **GraphRAG**, **Multimodal AI** & **LLM Fine-tuning**
-- 🤝 Open to **Internship & Full-Time roles** in AI / GenAI / Software Engineering
-- ⚡ I turn complex AI research into clean, working code
+- 🔭 Building RAG pipelines, AI workflows & LLM-powered applications
+- 🧠 Interested in Semantic Search, Vector Databases, Document Intelligence & GenAI
+- 🌱 Exploring LangGraph, GraphRAG, Multimodal AI & Advanced RAG systems
+- 🤝 Open to Internship & Software Engineering / AI opportunities
+- ⚡ Focused on turning AI ideas into practical, working applications
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🤖 DocAssist — RAG Document Assistant
-> *Flagship Project — Production-Grade RAG System*
+> *Featured Project — RAG Pipeline with Full Stack Implementation*
 
-**Chat with any PDF. Get answers with the exact source page cited.**
+**Upload a PDF and ask questions — get AI-powered answers with the source page cited.**
 
-A full-stack, zero-config Retrieval-Augmented Generation app — upload a PDF, ask questions, get LLM-powered answers with source citations. No Docker. No Postgres. Just two commands and you're live.
+A full-stack RAG application built as a learning project — implements PDF ingestion, semantic search, vector storage, and LLM-powered Q&A with source citations.
 
 ```
 ┌──────────────┐   upload PDF / ask question   ┌──────────────┐
@@ -182,7 +182,7 @@ roadmap_2026 = {
 
 <div align="center">
 
-I'm actively looking for **Internship & Full-Time opportunities** in AI / GenAI / Software Engineering.
+I am a fresher actively looking for **Internship & Entry-Level opportunities** in AI / GenAI / Software Engineering.
 If you're working on something interesting — let's talk!
 
 <br/>
