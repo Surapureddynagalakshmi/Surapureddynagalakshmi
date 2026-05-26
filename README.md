@@ -63,7 +63,7 @@
 
 **Tech:** Python, FastAPI, Vector Database, RAG, GenAI, LLMs
 
-🔗 [View Project](ADD_PROJECT_LINK)
+🔗 [View Project](https://github.com/Surapureddynagalakshmi/rag-document-assistant)
 
 ---
 
