@@ -166,15 +166,12 @@ ML classification system that recommends optimal crops based on **soil parameter
 
 ## 🌱 Currently Learning in 2026
 
-```python
-roadmap_2026 = {
-    "Agentic AI"    : ["LangGraph", "AutoGen", "CrewAI", "Multi-Agent Systems"],
-    "Advanced RAG"  : ["HyDE", "Re-ranking", "Hybrid Search", "GraphRAG"],
-    "Multimodal AI" : ["Vision LLMs", "Document AI", "Image+Text Pipelines"],
-    "LLM Ops"       : ["LangSmith", "Prompt Engineering", "Fine-tuning", "RLHF"],
-    "Cloud AI"      : ["AWS Bedrock", "SageMaker"],
-}
-```
+
+- Agentic AI (LangGraph, CrewAI)
+- Advanced RAG (Hybrid Search, GraphRAG)
+- Multimodal AI & Document Intelligence
+- LLMOps & Prompt Engineering
+- Cloud AI (AWS Bedrock, SageMaker)
 
 ---
 
