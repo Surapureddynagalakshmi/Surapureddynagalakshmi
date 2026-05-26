@@ -142,16 +142,25 @@ current_focus = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](ADD_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naga-lakshmi-surapureddy-861456302/)
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d14?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Surapureddynagalakshmi)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ADD_YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C6FFF?style=for-the-badge&logo=vercel&logoColor=white)](ADD_PORTFOLIO_LINK)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](nagalakshmisurapureddy@gmail.com)
+
 
 </div>
 
 ---
 
-<div align="center">
+
+
+```
+// Building intelligent solutions at the intersection of AI and real-world impact
+// Open to internship & full-time opportunities · 2026
+```
+
+*If my work helped you, drop a ⭐ — it means a lot!*
+
+</div>
 
 ```
 // Building intelligent solutions at the intersection of AI and real-world impact
