@@ -36,29 +36,61 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Document Assistant — RAG System
-> *Flagship Project — Production-Grade RAG Pipeline*
+### 🤖 DocAssist — RAG Document Assistant
+> *Flagship Project — Production-Grade RAG System*
 
-**Ask any question from any PDF document using AI.**
-Built a complete end-to-end Retrieval-Augmented Generation system with semantic search, vector storage, and LLM-powered answers with source citations.
+**Chat with any PDF. Get answers with the exact source page cited.**
 
-| Component | Technology Used |
-|---|---|
-| Document Ingestion | PyPDF2, Text Chunking with Overlap |
-| Embeddings | HuggingFace Sentence Transformers |
-| Vector Store | ChromaDB / FAISS |
-| LLM Integration | OpenAI / Ollama (LLaMA) |
-| API Backend | FastAPI + REST Endpoints |
-| Orchestration | LangChain RAG Pipeline |
+A full-stack, zero-config Retrieval-Augmented Generation app — upload a PDF, ask questions, get LLM-powered answers with source citations. No Docker. No Postgres. Just two commands and you're live.
 
-**What it does:**
-- 📄 Upload any PDF → instant intelligent Q&A
-- 🔍 Semantic similarity search — finds the most relevant context
-- 🧩 Smart chunking with overlap for better context preservation
-- 💬 LLM generates accurate answers with source citations
-- ⚡ FastAPI backend with clean, documented REST API
+```
+┌──────────────┐   upload PDF / ask question   ┌──────────────┐
+│   Frontend   │ ─────────────────────────────► │   Backend    │
+│  React 19 +  │ ◄──── answer + source page ─── │   FastAPI    │
+│  Tailwind 4  │                                └──────┬───────┘
+└──────────────┘                                       │
+        ┌──────────────────────────────────────────────┤
+        ▼                                              ▼
+ ┌─────────────┐                             ┌──────────────────┐
+ │   SQLite    │  users · docs · chunks      │  FAISS Index     │
+ │   app.db    │  query history              │  vector search   │
+ └─────────────┘                             └────────┬─────────┘
+                                                      │
+                                             ┌────────▼─────────┐
+                                             │  LLM Provider    │
+                                             │  Groq / OpenAI / │
+                                             │  Gemini          │
+                                             └──────────────────┘
+```
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Surapureddynagalakshmi/rag-document-assistant)
+**How it works:**
+1. PDF is parsed → split into ~800-character chunks
+2. Each chunk is embedded with `all-MiniLM-L6-v2` (CPU, 384-dim)
+3. Vectors stored in FAISS · chunk text stored in SQLite
+4. On query → embed it → FAISS finds top 5 chunks → LLM generates answer with source page
+
+**Key Features:**
+- 📄 Upload PDFs (≤ 25 MB) and ask natural language questions instantly
+- 🔍 Semantic similarity search using FAISS vector index
+- 💬 Answers include **source filename + page number** for full traceability
+- 🔐 JWT authentication with bcrypt password hashing
+- 🔄 Supports **Groq**, **OpenAI**, and **Google Gemini** — switch via `.env`
+- 📊 Dashboard with query history, document manager, and usage stats
+- ⚡ Zero-config setup — SQLite + FAISS, no external databases needed
+
+**Tech Stack:**
+
+| Layer | Technology | Why |
+|---|---|---|
+| Backend | FastAPI + Uvicorn | Async, typed, OpenAPI built-in |
+| Vector Index | FAISS `IndexFlatIP` | Lightweight, file-persisted, fast |
+| Embeddings | `all-MiniLM-L6-v2` | CPU-friendly, accurate for docs |
+| Metadata DB | SQLite | Zero setup, single file |
+| LLM | Groq / OpenAI / Gemini | Flexible — use any free API key |
+| Auth | bcrypt + JWT | Standard, no extra service |
+| Frontend | React 19 + Vite + Tailwind 4 | Modern, fast dev experience |
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View%20DocAssist-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Surapureddynagalakshmi/rag-document-assistant)
 
 ---
 
@@ -92,19 +124,20 @@ ML classification system that recommends optimal crops based on **soil parameter
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ### 🗄️ Vector Databases & Search
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
 
 ### ⚙️ Backend & Databases
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ### 🌐 Frontend & Cloud
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ### 🔧 Tools
@@ -119,9 +152,9 @@ ML classification system that recommends optimal crops based on **soil parameter
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Surapureddynagalakshmi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=false"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Surapureddynagalakshmi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
 &nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surapureddynagalakshmi&layout=compact&langs_count=6&theme=tokyonight&border_radius=10&hide_border=false"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surapureddynagalakshmi&layout=compact&langs_count=6&theme=tokyonight&border_radius=10"/>
 
 <br/><br/>
 
@@ -135,11 +168,11 @@ ML classification system that recommends optimal crops based on **soil parameter
 
 ```python
 roadmap_2026 = {
-    "Agentic AI"     : ["LangGraph", "AutoGen", "CrewAI", "Multi-Agent Systems"],
-    "Advanced RAG"   : ["HyDE", "Re-ranking", "Hybrid Search", "GraphRAG"],
-    "Multimodal AI"  : ["Vision LLMs", "Document AI", "Image+Text Pipelines"],
-    "LLM Ops"        : ["LangSmith", "Prompt Engineering", "Fine-tuning", "RLHF"],
-    "Cloud AI"       : ["AWS Bedrock", "SageMaker"],
+    "Agentic AI"    : ["LangGraph", "AutoGen", "CrewAI", "Multi-Agent Systems"],
+    "Advanced RAG"  : ["HyDE", "Re-ranking", "Hybrid Search", "GraphRAG"],
+    "Multimodal AI" : ["Vision LLMs", "Document AI", "Image+Text Pipelines"],
+    "LLM Ops"       : ["LangSmith", "Prompt Engineering", "Fine-tuning", "RLHF"],
+    "Cloud AI"      : ["AWS Bedrock", "SageMaker"],
 }
 ```
 
@@ -162,6 +195,6 @@ If you're working on something interesting — let's talk!
 
 ---
 
-*⭐ If you find my work useful or interesting, a star on my repos means a lot — thank you!*
+*⭐ If you find my work useful, a star on my repos means a lot — thank you!*
 
 </div>
