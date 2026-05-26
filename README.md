@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ```
@@ -151,16 +150,7 @@ current_focus = {
 
 ---
 
-
-
-```
-// Building intelligent solutions at the intersection of AI and real-world impact
-// Open to internship & full-time opportunities · 2026
-```
-
-*If my work helped you, drop a ⭐ — it means a lot!*
-
-</div>
+<div align="center">
 
 ```
 // Building intelligent solutions at the intersection of AI and real-world impact
@@ -170,6 +160,7 @@ current_focus = {
 *If my work helped you, drop a ⭐ — it means a lot!*
 
 </div>
+
 
 
 
