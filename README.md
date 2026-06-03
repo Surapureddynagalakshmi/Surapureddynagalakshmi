@@ -156,7 +156,6 @@ ML classification system that recommends optimal crops based on **soil parameter
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Surapureddynagalakshmi&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Surapureddynagalakshmi&theme=github_dark&utcOffset=5.5)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Surapureddynagalakshmi&theme=dark&hide_border=true)
 
 </div>
 
