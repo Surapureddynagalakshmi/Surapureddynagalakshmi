@@ -151,10 +151,12 @@ ML classification system that recommends optimal crops based on **soil parameter
 
 <div align="center">
 
-[![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Surapureddynagalakshmi&theme=tokyonight)](https://github.com/Surapureddynagalakshmi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Surapureddynagalakshmi&theme=github_dark)
 
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Surapureddynagalakshmi&theme=tokyonight)](https://github.com/Surapureddynagalakshmi)
-[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Surapureddynagalakshmi&theme=tokyonight)](https://github.com/Surapureddynagalakshmi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Surapureddynagalakshmi&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Surapureddynagalakshmi&theme=github_dark&utcOffset=5.5)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Surapureddynagalakshmi&theme=dark&hide_border=true)
 
 </div>
 
