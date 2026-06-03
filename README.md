@@ -152,15 +152,14 @@ ML classification system that recommends optimal crops based on **soil parameter
 
 <div align="center">
 
-<img height="170em" src="https://readme-stats.clckblog.space/api?username=Surapureddynagalakshmi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-&nbsp;
-<img height="170em" src="https://readme-stats.clckblog.space/api/top-langs/?username=Surapureddynagalakshmi&layout=compact&langs_count=6&theme=tokyonight&border_radius=10"/>
+![Surapureddynagalakshmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Surapureddynagalakshmi&show_icons=true&theme=tokyonight)
 
-<br/><br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Surapureddynagalakshmi&layout=compact&theme=tokyonight)
 
-[![GitHub_Streak](https://github-readme-streak-stats.herokuapp.com?user=Surapureddynagalakshmi&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Surapureddynagalakshmi&theme=tokyonight)
 
 </div>
+
 ## 🌱 Currently Learning in 2026
 
 
