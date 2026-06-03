@@ -158,11 +158,9 @@ ML classification system that recommends optimal crops based on **soil parameter
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Surapureddynagalakshmi&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
+[![GitHub_Streak](https://streak-stats.demolab.com?user=Surapureddynagalakshmi&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
 
 </div>
-
----
 
 ## 🌱 Currently Learning in 2026
 
