@@ -147,16 +147,14 @@ ML classification system that recommends optimal crops based on **soil parameter
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Surapureddynagalakshmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Surapureddynagalakshmi&show_icons=true&theme=tokyonight)
+[![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Surapureddynagalakshmi&theme=tokyonight)](https://github.com/Surapureddynagalakshmi)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Surapureddynagalakshmi&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Surapureddynagalakshmi&theme=tokyonight)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Surapureddynagalakshmi&theme=tokyonight)](https://github.com/Surapureddynagalakshmi)
+[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Surapureddynagalakshmi&theme=tokyonight)](https://github.com/Surapureddynagalakshmi)
 
 </div>
 
