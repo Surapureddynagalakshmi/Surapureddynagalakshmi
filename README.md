@@ -152,9 +152,9 @@ ML classification system that recommends optimal crops based on **soil parameter
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Surapureddynagalakshmi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Surapureddynagalakshmi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
 &nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surapureddynagalakshmi&layout=compact&langs_count=6&theme=tokyonight&border_radius=10"/>
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Surapureddynagalakshmi&layout=compact&langs_count=6&theme=tokyonight&border_radius=10"/>
 
 <br/><br/>
 
